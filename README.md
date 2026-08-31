@@ -8,6 +8,6 @@ test 6 6 6 5
  test 7
  sca 1 1 1
  sca 2
- sca 3 3 3
+ sca 3 3 3 5
  sca 4 
  fg y
